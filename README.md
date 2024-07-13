@@ -1,1 +1,1 @@
-# Okul_Python_Uygulama
+# Python_Uygulama
